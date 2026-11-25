@@ -16,7 +16,7 @@
 
 ## Скачать
 
-Официальные сборки: [Releases](../../releases). Android 8.0 или новее. Первый публичный APK готовится к выпуску.
+Официальные сборки: [Releases](../../releases). Android 8.0 или новее. Версия 1.4.5.
 
 ## Интерфейс
 
@@ -28,10 +28,10 @@
 
 [Направления развития](ROADMAP.md).
 
-[Официальный сайт](Адрес сервера) · [Конфиденциальность](Server address) · [Условия]()
+Адрес сервера: `kod.degalo.ru`.
 
 ## English
 
-KOD is an independent Android messenger with private and group chats, channels, calls, file sharing and privacy controls. End-to-end encryption is available in supported chats; public groups and channels are not end-to-end encrypted. Official builds will be published in [Releases](../../releases). Android 8.0 or later.
+KOD is an independent Android messenger with private and group chats, channels, calls, file sharing and privacy controls. End-to-end encryption is available in supported chats; public groups and channels are not end-to-end encrypted. Official builds are distributed through [Releases](../../releases). Android 8.0 or later.
 
 This repository is for official binary distribution. Client and server source code are not published. Third-party components retain their respective licenses.
