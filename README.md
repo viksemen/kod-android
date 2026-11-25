@@ -1,74 +1,37 @@
+<p align="center"><img src="assets/logo.png" width="120" alt="КОД"></p>
+
 # КОД | KOD Messenger
 
-![Android](https://img.shields.io/badge/Platform-Android-3DDC84)
-![Version](https://img.shields.io/badge/Version-1.4.2-blue)
-![License](https://img.shields.io/badge/License-Proprietary-orange)
+Общение. Конфиденциальность. Контроль.
 
-## О приложении
+Независимый мессенджер для Android с собственной серверной инфраструктурой.
 
-КОД — независимый мессенджер для общения с собственной серверной инфраструктурой и инструментами защиты конфиденциальности.
+## Возможности
 
-### Возможности
-
-- Личные и групповые чаты
-- Каналы
-- Голосовые и видеозвонки
-- Сквозное шифрование в поддерживаемых чатах
-- Отправка файлов и мультимедиа
-- Истории
-- Настройки видимости онлайн-статуса
-- Защита от снимков экрана
-- Светлая и тёмная темы
+- Личные и групповые чаты, каналы, истории.
+- Голосовые и видеозвонки, обмен файлами.
+- Настройки конфиденциальности, код-пароль, биометрия и управление скриншотами.
+- Сквозное шифрование в поддерживаемых чатах; публичные группы и каналы не имеют сквозного шифрования.
+- Светлая и тёмная темы.
 
 ## Скачать
 
-Официальные версии приложения публикуются в разделе [Releases](../../releases).
+Официальные сборки: [Releases](../../releases). Android 8.0 или новее. Первый публичный APK готовится к выпуску.
 
-## Системные требования
+## Интерфейс
 
-- Android 8.0 или новее
-- Подключение к Интернету
+Демонстрационный обзор интерфейса на основе версии 1.4.2. Имена, аватары и сообщения вымышлены. Изображение отредактировано; отдельные детали могут отличаться от приложения.
 
-## Безопасность
+![Демонстрационный обзор интерфейса КОД](assets/overview.png)
 
-Приложение использует собственную серверную инфраструктуру.
+## Развитие
 
-Официальный сайт: https://kod.degalo.ru
+[Направления развития](ROADMAP.md).
 
-[Политика конфиденциальности](https://kod.degalo.ru/privacy) | [Условия использования](https://kod.degalo.ru/terms)
-
-## Лицензия
-
-Copyright © 2026 KOD. All rights reserved.
-
-Исходный код приложения и сервера не публикуется. Репозиторий предназначен для распространения официальных сборок приложения.
-
----
+[Официальный сайт](https://kod.degalo.ru) · [Конфиденциальность](https://kod.degalo.ru/privacy) · [Условия](https://kod.degalo.ru/terms)
 
 ## English
 
-KOD is an independent messenger with its own server infrastructure and privacy features.
+KOD is an independent Android messenger with private and group chats, channels, calls, file sharing and privacy controls. End-to-end encryption is available in supported chats; public groups and channels are not end-to-end encrypted. Official builds will be published in [Releases](../../releases). Android 8.0 or later.
 
-### Features
-
-- Private and group chats
-- Channels
-- Voice and video calls
-- End-to-end encryption in supported chats
-- File and media sharing
-- Stories
-- Online status privacy settings
-- Screenshot protection
-- Light and dark themes
-
-### Download
-
-Official Android builds are available in [Releases](../../releases).
-
-Android 8.0 or later is required.
-
-Website: https://kod.degalo.ru
-
-This repository is intended for official binary distribution. Source code is not publicly available.
-
-Copyright © 2026 KOD. All rights reserved.
+This repository is for official binary distribution. Client and server source code are not published. Third-party components retain their respective licenses.
