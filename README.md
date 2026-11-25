@@ -28,7 +28,7 @@
 
 [Направления развития](ROADMAP.md).
 
-[Официальный сайт](https://kod.degalo.ru) · [Конфиденциальность](https://kod.degalo.ru/privacy) · [Условия](https://kod.degalo.ru/terms)
+[Официальный сайт](Адрес сервера) · [Конфиденциальность](Server address) · [Условия]()
 
 ## English
 
